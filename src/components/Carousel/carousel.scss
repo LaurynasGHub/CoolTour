@@ -1,0 +1,14 @@
+.carousel-container {
+  width: 100vw;
+  height: 20vh;
+  overflow: hidden;
+  position: relative;
+
+  .carousel-item {
+    background-position: center center;
+  }
+
+  img {
+    object-position: center;
+  }
+}
